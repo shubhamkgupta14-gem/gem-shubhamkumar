@@ -11,7 +11,6 @@
 [![Github](https://img.shields.io/badge/Github-100000.svg?logo=Github&logoColor=white)](https://github.com/testingwithsk)
 
 ## 🌐 Socials:
-[![Mail](https://img.shields.io/badge/Outlook-00A2Ed.svg?logo=gmail&logoColor=white)](mailto:shubham.kumar@geminisolutions.com)
 [![Github](https://img.shields.io/badge/Github-100000.svg?logo=Github&logoColor=white)](https://github.com/shubhamkgupta14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkgupta14)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shubhamkgupta)
