@@ -30,11 +30,11 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge)  
   
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gem-shubhamkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!-- # 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=gem-shubhamkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gem-shubhamkumar&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-shubhamkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-shubhamkumar&theme=merko&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gem-shubhamkumar&theme=merko&hide_border=false&layout=compact) -->
 
 
 ### ✍️ Random Dev Quote
