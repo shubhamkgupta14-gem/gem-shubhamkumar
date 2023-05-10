@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm **Shubham Kumar**<br>
 🧩 I'm interested in **Automation Testing**<br>
-<!-- 🔭 I'm currently doing POC on **WebDriver IO**<br> -->
 💬 Ask me about **Selenium**, **Appium** or **Jenkins**<br>
+<!-- 🔭 I'm currently doing POC on **WebDriver IO**<br> -->
 
 
 ## 📝 Blog:
