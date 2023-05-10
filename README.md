@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm **Shubham Kumar**<br>
 🧩 I'm interested in **Automation Testing**<br>
-🔭 I'm currently doing POC on **WebDriver IO**<br>
-💬 Ask me about **Selenium** or **Appium**<br>
+<!-- 🔭 I'm currently doing POC on **WebDriver IO**<br> -->
+💬 Ask me about **Selenium**, **Appium** or **Jenkins**<br>
 
 
 ## 📝 Blog:
@@ -22,6 +22,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B.svg?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/selenium-%797979.svg?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-662D91.svg?style=for-the-badge)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-009F0B.svg?style=for-the-badge)
 ![Webdriver IO](https://img.shields.io/badge/webdriver_io-DE5406.svg?style=for-the-badge)
 ![Java Script](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge)
